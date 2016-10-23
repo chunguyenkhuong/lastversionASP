@@ -1,0 +1,74 @@
+﻿.title{
+    text-align: center;
+}
+
+.text{
+    font-family: 'Orbitron', sans-serif;
+}
+
+b{
+    color: crimson;
+}
+.box {
+    border: 3px solid #f1f1f1;
+    width: 50% !important;
+    display: block;
+    margin: 30px auto 0 auto;
+  
+}
+.container{
+    margin: 16px;
+}
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.button{
+    
+    background-color: crimson;
+    color: white;
+    padding: 12px 15px;
+    margin: 10px 0 20px 0;
+    border: none;
+    cursor: pointer;
+    
+}
+.button:hover{
+    background-color:ghostwhite;
+    color: crimson;
+}
+.button-fix{
+    width: 45%;
+    display: block;
+    margin: 20px auto 40px auto;
+}
+
+
+.left{
+    width: 45%;
+   float: left;
+    box-sizing: border-box;
+   
+}
+.right{
+    width: 45%;
+  float: right;
+    box-sizing: border-box;
+    
+}
+.grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.center{
+    width: 50%;
+    margin: auto;
+}
+.table{
+   border: 2px solid crimson;
+   margin: 20px 0 20px 0;
+}

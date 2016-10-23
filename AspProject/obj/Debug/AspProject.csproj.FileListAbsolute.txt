@@ -1,0 +1,198 @@
+G:\ASPproject-master\AspProject\bin\roslyn\csc.exe
+G:\ASPproject-master\AspProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ASPproject-master\AspProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASPproject-master\AspProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ASPproject-master\AspProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASPproject-master\AspProject\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ASPproject-master\AspProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ASPproject-master\AspProject\bin\roslyn\System.Collections.Immutable.dll
+G:\ASPproject-master\AspProject\bin\roslyn\System.Reflection.Metadata.dll
+G:\ASPproject-master\AspProject\bin\roslyn\vbc.exe
+G:\ASPproject-master\AspProject\bin\roslyn\VBCSCompiler.exe
+G:\ASPproject-master\AspProject\bin\roslyn\VBCSCompiler.exe.config
+G:\ASPproject-master\AspProject\bin\AspProject.dll.config
+G:\ASPproject-master\AspProject\bin\AspProject.dll
+G:\ASPproject-master\AspProject\bin\AspProject.pdb
+G:\ASPproject-master\AspProject\bin\Antlr3.Runtime.dll
+G:\ASPproject-master\AspProject\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ASPproject-master\AspProject\bin\AspNet.ScriptManager.jQuery.dll
+G:\ASPproject-master\AspProject\bin\EntityFramework.dll
+G:\ASPproject-master\AspProject\bin\EntityFramework.SqlServer.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Facebook.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Google.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Twitter.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.Web.Infrastructure.dll
+G:\ASPproject-master\AspProject\bin\Newtonsoft.Json.dll
+G:\ASPproject-master\AspProject\bin\Owin.dll
+G:\ASPproject-master\AspProject\bin\System.Web.Optimization.dll
+G:\ASPproject-master\AspProject\bin\System.Web.Providers.dll
+G:\ASPproject-master\AspProject\bin\WebGrease.dll
+G:\ASPproject-master\AspProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ASPproject-master\AspProject\bin\System.Web.Optimization.xml
+G:\ASPproject-master\AspProject\bin\Antlr3.Runtime.pdb
+G:\ASPproject-master\AspProject\bin\Newtonsoft.Json.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ASPproject-master\AspProject\bin\EntityFramework.xml
+G:\ASPproject-master\AspProject\bin\EntityFramework.SqlServer.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ASPproject-master\AspProject\bin\System.Web.Providers.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Facebook.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Google.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.Twitter.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\ASPproject-master\AspProject\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ASPproject-master\AspProject\obj\Debug\AspProject.dll
+G:\ASPproject-master\AspProject\obj\Debug\AspProject.pdb
+G:\ASPproject-master\AspProject\obj\Debug\AspProject.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\AspProject.dll.config
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\AspProject.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\AspProject.pdb
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Owin.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\System.Web.Providers.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\WebGrease.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\System.Web.Providers.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\obj\Debug\AspProject.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\obj\Debug\AspProject.dll
+C:\Users\DELL\Desktop\ASPproject-master-1.0\AspProject\obj\Debug\AspProject.pdb
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\csc.exe
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\vbc.exe
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\AspProject.dll.config
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\AspProject.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\AspProject.pdb
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Antlr3.Runtime.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\EntityFramework.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Newtonsoft.Json.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Owin.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\System.Web.Optimization.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\System.Web.Providers.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\WebGrease.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\System.Web.Optimization.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Antlr3.Runtime.pdb
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Newtonsoft.Json.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\EntityFramework.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\System.Web.Providers.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\obj\Debug\AspProject.csprojResolveAssemblyReference.cache
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\obj\Debug\AspProject.dll
+C:\Users\Khuong\Desktop\ASP Project final\AspProject\obj\Debug\AspProject.pdb
