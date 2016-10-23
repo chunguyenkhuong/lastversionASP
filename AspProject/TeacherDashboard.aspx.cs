@@ -69,9 +69,9 @@ namespace AspProject
 
         protected void grdCourse_RowCreated(object sender, GridViewRowEventArgs e)
         {
-            e.Row.Cells[1].Visible = false;
-            e.Row.Cells[2].Text = "Name";
-            e.Row.Cells[3].Text = "Teacher ID";
+            e.Row.Cells[0].Visible = false;
+            e.Row.Cells[1].Text = "Name";
+            e.Row.Cells[2].Text = "Teacher ID";
         }
 
 
